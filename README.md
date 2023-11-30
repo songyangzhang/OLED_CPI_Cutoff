@@ -1,0 +1,1 @@
+This repository contains codes and data of the paper "Interpretable machine learning for investigating the molecular mechanisms governing the transparency of colorless transparent polyimide for OLED cover windows"
